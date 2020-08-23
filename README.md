@@ -20,3 +20,5 @@ A countdown from 3 to 1 indicates to start playing and a timings display directs
 The recording is automatically saved to the company’s cloud for future use.
 
 http://milab.idc.ac.il/teaching/projects/melody/
+
+You can find a detiled guide to build your own Melody in https://www.instructables.com/id/Melody/
